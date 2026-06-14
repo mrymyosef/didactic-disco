@@ -108,7 +108,6 @@ Applied statistical methods to healthcare datasets including:
 
 - Logistic Regression
 - ANOVA
-- Survival Analysis
 - Correlation Analysis
 
 ---
@@ -139,23 +138,19 @@ Performed exploratory data analysis and visualization on vehicle datasets using 
 - Deep Learning
 - Data Engineering
 - Advanced SQL
-- Cloud Analytics
+
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn:(https://www.linkedin.com/in/maryamalburai/?skipRedirect=true)
+GitHub:(https://github.com/mrymyosef/mrymyosef)
 
-GitHub:
-https://github.com/YOUR_USERNAME
-
-Email:
-YOUR_EMAIL
+Email:mrymb2024@gmail.com
 
 Portfolio:
-YOUR_PORTFOLIO
+
 
 ---
 
@@ -182,11 +177,7 @@ skills = {
         "Matplotlib",
         "Plotly"
     ],
-    "Research": [
-        "SPSS",
-        "Medical Statistics",
-        "Data Interpretation"
-    ]
+   
 }
 ```
 

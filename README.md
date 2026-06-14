@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maryam Alburai</h1>
 
 <h3 align="center">
-Data Analyst | Biostatistician | Python Developer | Turning Raw Data into Meaningful Insights
+Data Analyst | Turning Raw Data into Meaningful Insights
 </h3>
 
 ---
